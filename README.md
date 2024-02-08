@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Mirianny, I am 15 years old and I study programming.
 <!--
 **Mir1anny/Mir1anny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
